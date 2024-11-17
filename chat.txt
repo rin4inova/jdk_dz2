@@ -1,0 +1,19 @@
+Ivan Ivanovich: 111
+Ivan Ivanovich: Привет
+Petr: Hello
+Ivan Ivanovich: 111
+Petr: 333
+Ivan Ivanovich: 555
+Petr: 777
+Ivan Ivanovich: test
+Petr: hello
+Petr: Hello Ivan!
+Ivan Ivanovich: Hello Petr!
+Ivan Ivanovich: Привет Петр
+Petr: Привет Иван
+Ivan Ivanovich: Привет Иван!
+Petr: Привет Петр!
+Ivan Ivanovich: Привет!
+Petr: Привет!
+Ivan Ivanovich: Как дела?
+Petr: Хорошо
